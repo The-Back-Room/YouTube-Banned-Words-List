@@ -1,6 +1,11 @@
-# YouTube-Banned-Words-List
-A list of banned words for YouTube pre-formatted for copy-paste
+# Youtube Comment Filter Copy-Paste
+Pre-formatted list for simple copy-paste
 
+## What’s this for? 
+It’s a list of words that may trigger demonetization. For those who don’t know, YouTube will be demonetizing videos based on their comments now. 
+
+## Why are things such as LGBT and MAGA included?
+YouTube is known to demonetized videos including such topics. It is unfortunately necessary for some of these things to be listed due to YouTube's poor history of what has gotten videos demonetized. If there are words that you wish to add or remove, you can always add or remove them from your Blocked Words list on the YouTube page.
 
 ## Instructions 
 
