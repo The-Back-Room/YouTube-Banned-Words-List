@@ -9,7 +9,7 @@ YouTube is known to demonetized videos including such topics. It is unfortunatel
 
 ## Instructions 
 
-Simply copy and paste the contents of the [Banned Words][Banned_Words] file into your Banned Words filter.
+Simply copy and paste the contents of the [Banned Words][Banned_Words] file into your Blocked Words filter.
 
 You can find it in your creator settings tab on [YouTube Studio][YouTube_Studio].
 
