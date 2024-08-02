@@ -1,4 +1,4 @@
-# Youtube Comment Filter Copy-Paste
+# YouTube Comment Filter Copy-Paste
 Pre-formatted list for simple copy-paste
 
 ## What’s this for? 
